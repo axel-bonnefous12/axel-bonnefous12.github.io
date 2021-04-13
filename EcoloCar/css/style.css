@@ -1,0 +1,17 @@
+body 
+{
+    padding-top: 200px; /* pour prendre en compte la navbar en fixed-top */
+}
+
+#recherche-rapide
+{
+	background-color:#00DA84 !important;
+	color: white !important; /* Texte blanc */ 
+}
+
+#form-rapide
+{
+	/* text-decoration: none; */
+	font-weight: bold;
+	color: white;
+}
